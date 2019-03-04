@@ -9,6 +9,8 @@ import android.view.View;
 import com.lespinside.simplepanorama.view.SphericalView;
 import com.panoramagl.utils.PLUtils;
 
+
+//manibabuvvay
 public class MainActivity extends AppCompatActivity {
 
     private SphericalView sphericalView;
